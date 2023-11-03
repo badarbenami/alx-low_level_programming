@@ -5,7 +5,7 @@
  * @filename:A reference to the filename that has to be created.
  * @text_content:A string pointer to be written to the file.
  *
- * Return:If the function fails - -one.
+ * Return:If the function fails--- -one.
  *        Otherwise- one.
  */
 int create_file(const char *filename, char *text_content)
